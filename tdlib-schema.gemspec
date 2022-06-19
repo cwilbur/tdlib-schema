@@ -2,13 +2,13 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "tdlib-schema"
-  spec.version       = "1.7.0.3"
-  spec.authors       = ["Southbridge"]
-  spec.email         = ["ask@southbridge.io"]
+  spec.version       = "1.8.3-cw"
+  spec.authors       = ["Southbridge", "cwilbur"]
+  spec.email         = ["cwilbur@chromatico.net"]
 
   spec.summary       = "TDLib schema for tdlib-ruby gem"
-  spec.description   = "TDLib schema for tdlib-ruby gem"
-  spec.homepage      = "https://github.com/southbridgeio/tdlib-schema"
+  spec.description   = "TDLib schema for tdlib-ruby gem, updated by cwilbur"
+  spec.homepage      = "https://github.com/cwilbur/tdlib-schema"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
